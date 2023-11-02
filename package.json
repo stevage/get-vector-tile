@@ -1,0 +1,13 @@
+{
+  "name": "get-vector-tile",
+  "version": "0.0.1",
+  "description": "Semi-modernised version of @mapbox/vt2geojson",
+  "main": "index.js",
+  "author": "Steve Bennett",
+  "license": "MIT",
+  "dependencies": {
+    "pbf": "^3.2.1",
+    "vector-tile": "^1.3.0",
+    "zlib": "^1.0.5"
+  }
+}
